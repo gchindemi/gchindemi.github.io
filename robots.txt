@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gchindemi.github.io/sitemap.xml
+Sitemap: https://gchindemi.com/sitemap.xml
