@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-02-25'
 papers:
   2Bg_RB0AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -62,11 +62,11 @@ papers:
     title: Assemblies, synapse clustering, and network topology interact with plasticity to explain structure-function relationships of the cortical connectome
     year: '2025'
   2Bg_RB0AAAAJ:qjMakFHDy7sC:
-    citations: 533
+    citations: 535
     title: Cliques of neurons bound into cavities provide a missing link between structure and function
     year: '2017'
   2Bg_RB0AAAAJ:u-x6o8ySG0sC:
-    citations: 1799
+    citations: 1802
     title: Reconstruction and simulation of neocortical microcircuitry
     year: '2015'
   2Bg_RB0AAAAJ:u5HHmVD_uO8C:
