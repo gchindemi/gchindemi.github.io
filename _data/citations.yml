@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-06'
 papers:
   2Bg_RB0AAAAJ:0EnyYjriUFMC:
     citations: 0
     title: 'LISBET: a self-supervised Transformer model for the automatic segmentation of social behavior motifs.'
     year: '2023'
   2Bg_RB0AAAAJ:2osOgNQ5qMEC:
-    citations: 31
+    citations: 32
     title: Automated point-neuron simplification of data-driven microcircuit models
     year: '2016'
   2Bg_RB0AAAAJ:5nxA0vEk-isC:
@@ -22,7 +22,7 @@ papers:
     title: 'BluePyOpt: leveraging open source software and cloud infrastructure to optimise model parameters in neuroscience'
     year: '2016'
   2Bg_RB0AAAAJ:IjCSPb-OGe4C:
-    citations: 77
+    citations: 78
     title: Timed synaptic inhibition shapes NMDA spikes, influencing local dendritic processing and global I/O properties of cortical neurons
     year: '2017'
   2Bg_RB0AAAAJ:MXK_kJrjxJIC:
@@ -30,7 +30,7 @@ papers:
     title: 'From eye to AI: studying rodent social behavior in the era of machine Learning'
     year: '2025'
   2Bg_RB0AAAAJ:Se3iqnhoufwC:
-    citations: 29
+    citations: 31
     title: Modeling and simulation of neocortical micro-and mesocircuitry (Part II, Physiology and experimentation)
     year: '2026'
   2Bg_RB0AAAAJ:Tyk-4Ss8FVUC:
@@ -54,7 +54,7 @@ papers:
     title: A calcium-based plasticity model for predicting long-term potentiation and depression in the neocortex
     year: '2022'
   2Bg_RB0AAAAJ:d1gkVwhDpl0C:
-    citations: 183
+    citations: 185
     title: 'The neocortical microcircuit collaboration portal: a resource for rat somatosensory cortex'
     year: '2015'
   2Bg_RB0AAAAJ:hqOjcs7Dif8C:
@@ -62,11 +62,11 @@ papers:
     title: Assemblies, synapse clustering, and network topology interact with plasticity to explain structure-function relationships of the cortical connectome
     year: '2025'
   2Bg_RB0AAAAJ:qjMakFHDy7sC:
-    citations: 541
+    citations: 544
     title: Cliques of neurons bound into cavities provide a missing link between structure and function
     year: '2017'
   2Bg_RB0AAAAJ:u-x6o8ySG0sC:
-    citations: 1825
+    citations: 1836
     title: Reconstruction and simulation of neocortical microcircuitry
     year: '2015'
   2Bg_RB0AAAAJ:u5HHmVD_uO8C:
