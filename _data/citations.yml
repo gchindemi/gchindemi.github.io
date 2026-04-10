@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-10'
 papers:
   2Bg_RB0AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: 'BluePyOpt: leveraging open source software and cloud infrastructure to optimise model parameters in neuroscience'
     year: '2016'
   2Bg_RB0AAAAJ:IjCSPb-OGe4C:
-    citations: 78
+    citations: 79
     title: Timed synaptic inhibition shapes NMDA spikes, influencing local dendritic processing and global I/O properties of cortical neurons
     year: '2017'
   2Bg_RB0AAAAJ:MXK_kJrjxJIC:
