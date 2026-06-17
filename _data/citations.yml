@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-17'
 papers:
   2Bg_RB0AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'LISBET: a machine learning model for the automatic segmentation of social behavior motifs'
     year: '2023'
   2Bg_RB0AAAAJ:9yKSN-GCB0IC:
-    citations: 213
+    citations: 214
     title: 'BluePyOpt: leveraging open source software and cloud infrastructure to optimise model parameters in neuroscience'
     year: '2016'
   2Bg_RB0AAAAJ:IjCSPb-OGe4C:
@@ -27,10 +27,10 @@ papers:
     year: '2017'
   2Bg_RB0AAAAJ:MXK_kJrjxJIC:
     citations: 1
-    title: 'From eye to AI: studying rodent social behavior in the era of machine learning'
+    title: 'From eye to AI: Studying rodent social behavior in the era of machine learning'
     year: '2026'
   2Bg_RB0AAAAJ:Se3iqnhoufwC:
-    citations: 31
+    citations: 32
     title: Modeling and simulation of neocortical micro-and mesocircuitry (Part II, Physiology and experimentation)
     year: '2026'
   2Bg_RB0AAAAJ:Tyk-4Ss8FVUC:
@@ -46,23 +46,23 @@ papers:
     title: 'Shaping Dendritic NMDA Spikes by Timed Synaptic Inhibition: Implications for Branch-Specific Synaptic Plasticity and I/O Properties of Cortical Neurons'
     year: '2018'
   2Bg_RB0AAAAJ:_FxGoFyzp5QC:
-    citations: 103
+    citations: 104
     title: A calcium-based plasticity model for predicting long-term potentiation and depression in the neocortex
     year: '2022'
   2Bg_RB0AAAAJ:d1gkVwhDpl0C:
-    citations: 186
+    citations: 187
     title: 'The neocortical microcircuit collaboration portal: a resource for rat somatosensory cortex'
     year: '2015'
   2Bg_RB0AAAAJ:hqOjcs7Dif8C:
-    citations: 15
+    citations: 16
     title: Assemblies, synapse clustering, and network topology interact with plasticity to explain structure-function relationships of the cortical connectome
     year: '2025'
   2Bg_RB0AAAAJ:qjMakFHDy7sC:
-    citations: 555
+    citations: 556
     title: Cliques of neurons bound into cavities provide a missing link between structure and function
     year: '2017'
   2Bg_RB0AAAAJ:u-x6o8ySG0sC:
-    citations: 1876
+    citations: 1882
     title: Reconstruction and simulation of neocortical microcircuitry
     year: '2015'
   2Bg_RB0AAAAJ:u5HHmVD_uO8C:
