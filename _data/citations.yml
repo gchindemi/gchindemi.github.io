@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-26'
 papers:
   2Bg_RB0AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: 'LISBET: a machine learning model for the automatic segmentation of social behavior motifs'
     year: '2024'
   2Bg_RB0AAAAJ:8k81kl-MbHgC:
-    citations: 2
+    citations: 3
     title: 'LISBET: a machine learning model for the automatic segmentation of social behavior motifs'
     year: '2023'
   2Bg_RB0AAAAJ:9yKSN-GCB0IC:
@@ -50,7 +50,7 @@ papers:
     title: A calcium-based plasticity model for predicting long-term potentiation and depression in the neocortex
     year: '2022'
   2Bg_RB0AAAAJ:d1gkVwhDpl0C:
-    citations: 187
+    citations: 188
     title: 'The neocortical microcircuit collaboration portal: a resource for rat somatosensory cortex'
     year: '2015'
   2Bg_RB0AAAAJ:hqOjcs7Dif8C:
@@ -58,11 +58,11 @@ papers:
     title: Assemblies, synapse clustering, and network topology interact with plasticity to explain structure-function relationships of the cortical connectome
     year: '2025'
   2Bg_RB0AAAAJ:qjMakFHDy7sC:
-    citations: 556
+    citations: 555
     title: Cliques of neurons bound into cavities provide a missing link between structure and function
     year: '2017'
   2Bg_RB0AAAAJ:u-x6o8ySG0sC:
-    citations: 1882
+    citations: 1880
     title: Reconstruction and simulation of neocortical microcircuitry
     year: '2015'
   2Bg_RB0AAAAJ:u5HHmVD_uO8C:
