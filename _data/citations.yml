@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-22'
 papers:
   2Bg_RB0AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'LISBET: a machine learning model for the automatic segmentation of social behavior motifs'
     year: '2023'
   2Bg_RB0AAAAJ:9yKSN-GCB0IC:
-    citations: 217
+    citations: 218
     title: 'BluePyOpt: leveraging open source software and cloud infrastructure to optimise model parameters in neuroscience'
     year: '2016'
   2Bg_RB0AAAAJ:IjCSPb-OGe4C:
@@ -46,7 +46,7 @@ papers:
     title: 'Shaping Dendritic NMDA Spikes by Timed Synaptic Inhibition: Implications for Branch-Specific Synaptic Plasticity and I/O Properties of Cortical Neurons'
     year: '2018'
   2Bg_RB0AAAAJ:_FxGoFyzp5QC:
-    citations: 106
+    citations: 107
     title: A calcium-based plasticity model for predicting long-term potentiation and depression in the neocortex
     year: '2022'
   2Bg_RB0AAAAJ:d1gkVwhDpl0C:
@@ -58,11 +58,11 @@ papers:
     title: Assemblies, synapse clustering, and network topology interact with plasticity to explain structure-function relationships of the cortical connectome
     year: '2025'
   2Bg_RB0AAAAJ:qjMakFHDy7sC:
-    citations: 560
+    citations: 563
     title: Cliques of neurons bound into cavities provide a missing link between structure and function
     year: '2017'
   2Bg_RB0AAAAJ:u-x6o8ySG0sC:
-    citations: 1888
+    citations: 1896
     title: Reconstruction and simulation of neocortical microcircuitry
     year: '2015'
   2Bg_RB0AAAAJ:u5HHmVD_uO8C:
@@ -70,6 +70,6 @@ papers:
     title: A Neural Network Study of Predicting Seizures in Epilepsy
     year: '2012'
   2Bg_RB0AAAAJ:ufrVoPGSRksC:
-    citations: 32
+    citations: 33
     title: Estimating the readily-releasable vesicle pool size at synaptic connections in the neocortex
     year: '2019'
