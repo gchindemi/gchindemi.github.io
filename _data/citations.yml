@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-10'
 papers:
   2Bg_RB0AAAAJ:0EnyYjriUFMC:
     citations: 0
     title: 'LISBET: a self-supervised Transformer model for the automatic segmentation of social behavior motifs.'
     year: '2023'
   2Bg_RB0AAAAJ:2osOgNQ5qMEC:
-    citations: 33
+    citations: 31
     title: Automated point-neuron simplification of data-driven microcircuit models
     year: '2016'
   2Bg_RB0AAAAJ:5nxA0vEk-isC:
@@ -14,11 +14,11 @@ papers:
     title: 'LISBET: a machine learning model for the automatic segmentation of social behavior motifs'
     year: '2024'
   2Bg_RB0AAAAJ:8k81kl-MbHgC:
-    citations: 2
+    citations: 3
     title: 'LISBET: a machine learning model for the automatic segmentation of social behavior motifs'
     year: '2023'
   2Bg_RB0AAAAJ:9yKSN-GCB0IC:
-    citations: 216
+    citations: 217
     title: 'BluePyOpt: leveraging open source software and cloud infrastructure to optimise model parameters in neuroscience'
     year: '2016'
   2Bg_RB0AAAAJ:IjCSPb-OGe4C:
@@ -30,11 +30,11 @@ papers:
     title: 'From eye to AI: Studying rodent social behavior in the era of machine learning'
     year: '2026'
   2Bg_RB0AAAAJ:Se3iqnhoufwC:
-    citations: 33
-    title: 'Modeling and simulation of neocortical micro-and mesocircuitry. part ii: Physiology and experimentation'
-    year: '2023'
+    citations: 34
+    title: Modeling and simulation of neocortical micro-and mesocircuitry (Part II, Physiology and experimentation)
+    year: '2026'
   2Bg_RB0AAAAJ:Tyk-4Ss8FVUC:
-    citations: 6
+    citations: 7
     title: 'Towards a unified understanding of synaptic plasticity: parsimonious modeling and simulation of the glutamatergic synapse life-cycle'
     year: '2018'
   2Bg_RB0AAAAJ:UeHWp8X0CEIC:
@@ -46,23 +46,27 @@ papers:
     title: 'Shaping Dendritic NMDA Spikes by Timed Synaptic Inhibition: Implications for Branch-Specific Synaptic Plasticity and I/O Properties of Cortical Neurons'
     year: '2018'
   2Bg_RB0AAAAJ:_FxGoFyzp5QC:
-    citations: 108
+    citations: 110
     title: A calcium-based plasticity model for predicting long-term potentiation and depression in the neocortex
     year: '2022'
   2Bg_RB0AAAAJ:d1gkVwhDpl0C:
-    citations: 188
+    citations: 193
     title: 'The neocortical microcircuit collaboration portal: a resource for rat somatosensory cortex'
     year: '2015'
   2Bg_RB0AAAAJ:hqOjcs7Dif8C:
-    citations: 16
-    title: Assemblies, synapse clustering and network topology interact with plasticity to explain structure-function relationships of the cortical connectome
-    year: '2023'
+    citations: 15
+    title: Assemblies, synapse clustering, and network topology interact with plasticity to explain structure-function relationships of the cortical connectome
+    year: '2025'
+  2Bg_RB0AAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: Self-Supervised Modelling of Social Primitives in Human Dyads
+    year: Unknown Year
   2Bg_RB0AAAAJ:qjMakFHDy7sC:
-    citations: 565
+    citations: 558
     title: Cliques of neurons bound into cavities provide a missing link between structure and function
     year: '2017'
   2Bg_RB0AAAAJ:u-x6o8ySG0sC:
-    citations: 1899
+    citations: 1898
     title: Reconstruction and simulation of neocortical microcircuitry
     year: '2015'
   2Bg_RB0AAAAJ:u5HHmVD_uO8C:
@@ -70,6 +74,6 @@ papers:
     title: A Neural Network Study of Predicting Seizures in Epilepsy
     year: '2012'
   2Bg_RB0AAAAJ:ufrVoPGSRksC:
-    citations: 33
+    citations: 35
     title: Estimating the readily-releasable vesicle pool size at synaptic connections in the neocortex
     year: '2019'
