@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-09-04'
 papers:
   2Bg_RB0AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'LISBET: a machine learning model for the automatic segmentation of social behavior motifs'
     year: '2023'
   2Bg_RB0AAAAJ:9yKSN-GCB0IC:
-    citations: 219
+    citations: 221
     title: 'BluePyOpt: leveraging open source software and cloud infrastructure to optimise model parameters in neuroscience'
     year: '2016'
   2Bg_RB0AAAAJ:IjCSPb-OGe4C:
@@ -62,11 +62,11 @@ papers:
     title: Self-Supervised Modelling of Social Primitives in Human Dyads
     year: Unknown Year
   2Bg_RB0AAAAJ:qjMakFHDy7sC:
-    citations: 558
+    citations: 560
     title: Cliques of neurons bound into cavities provide a missing link between structure and function
     year: '2017'
   2Bg_RB0AAAAJ:u-x6o8ySG0sC:
-    citations: 1908
+    citations: 1914
     title: Reconstruction and simulation of neocortical microcircuitry
     year: '2015'
   2Bg_RB0AAAAJ:u5HHmVD_uO8C:
